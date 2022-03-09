@@ -6,9 +6,9 @@ Here are the current Design Bites:
 
    - <a href=https://jimfawcett.github.io/indexDesign.html>Design Track Summary</a><br />
      What?, Why?, So What?, Why Not?
-   - Introduction<br />
+   - <a href="https://jimfawcett.github.io/Resources/DesignBites/DesignBites_Intro.html">Introduction</a><br />
      Concept development, Architecture, TextFinder Specification, Implementation
-   - Design and Documentation<br />
+   - <a href="https://jimfawcett.github.io/Resources/DesignBites/Design.html">Design and Documentation</a><br />
      Initial thoughts about design: concept, design, design evolution, design document, building a design, presenting designs
      Structure
      Why does TextFinder require a flow architecture?
