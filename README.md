@@ -1,7 +1,7 @@
 # DesignBites
-Demonstration code and docs for design.  Current focus on project structure. 
+Demonstration docs for design.  Current focus on project structure. 
+Find associated code in <a href="https://github.com/JimFawcett/DesignStructure">DesignStructure</a>
 
-Just starting. No code demos yet.
 Here are the current Design Bites:
 
    - <a href=https://jimfawcett.github.io/indexDesign.html>Design Track Summary</a><br />
