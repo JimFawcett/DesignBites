@@ -1,5 +1,5 @@
 # DesignBites
-Demonstration code for Basics, e.g., Platform, Programming, and Object Models
+Demonstration code and docs for design.  Current focus on project structure. 
 
 Just starting. No code demos yet.
 Here are the current Design Bites:
