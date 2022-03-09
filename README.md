@@ -4,7 +4,7 @@ Demonstration code for Basics, e.g., Platform, Programming, and Object Models
 Just starting. No code demos yet.
 Here are the current Design Bites:
 
-   - <a href=https://jimfawcett.github.io/indexDesign.htmlDesign>Track Summary</a>
+   - <a href=https://jimfawcett.github.io/indexDesign.html>Design Track Summary</a>
    - Design: What?, Why?, So What?, Why Not?
    - Introduction
      TextFinder design: Concept development, Architecture, TextFinder Specification, Implementation
