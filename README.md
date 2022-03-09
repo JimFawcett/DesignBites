@@ -4,11 +4,11 @@ Demonstration code for Basics, e.g., Platform, Programming, and Object Models
 Just starting. No code demos yet.
 Here are the current Design Bites:
 
-   - <a href=https://jimfawcett.github.io/indexDesign.html>Design Track Summary</a>
-   - Design: What?, Why?, So What?, Why Not?
-   - Introduction
-     TextFinder design: Concept development, Architecture, TextFinder Specification, Implementation
-   - Design
+   - <a href=https://jimfawcett.github.io/indexDesign.html>Design Track Summary</a><br />
+     What?, Why?, So What?, Why Not?
+   - Introduction<br />
+     Concept development, Architecture, TextFinder Specification, Implementation
+   - Design and Documentation<br />
      Initial thoughts about design: concept, design, design evolution, design document, building a design, presenting designs
      Structure
      Why does TextFinder require a flow architecture?
